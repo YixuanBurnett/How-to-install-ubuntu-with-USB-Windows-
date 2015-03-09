@@ -40,5 +40,5 @@ Link:<br/>
 2.5 选择usb启动。（就是USB打头的那个选项，看不懂英文无所谓）<br/>
 
 Link:<br/>
-http://www.upanok.com/jiaocheng/68.htm<br/>
-http://www.upanok.com/jiaocheng/60.html<br/>
+<a href="http://www.upanok.com/jiaocheng/68.html">U盘装系统中bios怎么设置USB启动(图文教程）</a><br/>
+<a href="http://www.upanok.com/jiaocheng/60.html">利用快捷键设置Bois从U盘启动</a><br/>
