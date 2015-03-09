@@ -13,7 +13,7 @@ UltraISO软件<br/>
 1.2<br/>
 Ubuntu <br/>
 下载地址：http://www.ubuntu.com/download/desktop<br/>
-<b>注意：<b/>先查看你的电脑是32bit还是64bit，再选择下载是哪个版.不然安装不上<br/>
+<b>注意：</b>先查看你的电脑是32bit还是64bit，再选择下载是哪个版.不然安装不上<br/>
 <b>如何查看自己的电脑是32bit还是64bit:</b><br/>
 <i>
 <b>方法1：</b>在开始>运行中输入“winver”，如果你的系统是64位的，同样会明确标示出“x64 Edition”。 <br/>
