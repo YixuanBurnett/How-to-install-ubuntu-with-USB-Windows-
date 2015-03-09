@@ -11,7 +11,7 @@
 1.UltraISO软件
 2.
 
-Link:
+Link:<br/>
 <a href="jingyan.baidule/b24f6c82cf50e086bfe5dae9.html">怎么制作ubuntu安装盘</a><br/>
 如链接无法打开请手动：jingyan.baidu.c/article/b24f6c82cf50e086bfe5dae9.htm<br/>
 
