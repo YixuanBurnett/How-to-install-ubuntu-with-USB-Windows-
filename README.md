@@ -7,7 +7,8 @@
 
 <h3>1.制作USB安装盘。</h3><br/>
 
-<b>安装前需要下载：</b><br/>
+<b>制作前需要下载：</b><br/>
+
 1.UltraISO软件<br/>
 下载地址：http://www.onlinedown.net/soft/614.htm<br/>
 可以百度一下or Google it.哪个能下用哪个。<br/>
